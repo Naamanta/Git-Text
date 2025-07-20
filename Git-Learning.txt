@@ -1,1 +1,1 @@
-My first time of learning git
+My first time of learning Git.

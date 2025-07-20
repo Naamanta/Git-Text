@@ -1,2 +1,2 @@
 # Git-Text
-I'm learning git also with github
+I'm learning Git also with GitHub.
